@@ -1,12 +1,12 @@
 # First
-### 💫 In the "First" file, I have include text field:
+### 💫 In the "First" file, I have include:
 #### 1. Launch a new browser<br>2. Open URL https://itera-qa.azurewebsites.net/home/automation<br>3. Type Name, Mobile number, Email address, Password, Address (Use ID locator)<br>4. Click on Submit button (Use Name locator)<br>5. Close the browser<br>
 
 #### The Output is:
 ![first](https://user-images.githubusercontent.com/112747904/208155263-b7e5225e-6770-4ee3-9a53-27a184cabbaf.PNG)
 
 # Second
-### 💫 In the "Second" file, I have include drop-down:
+### 💫 In the "Second" file, I have include:
 #### 1. Launch a new browser<br>2. Open URL https://itera-qa.azurewebsites.net/home/automation<br>3. Select the "Norway" from for category "Where do you plan to travel this year?" (Use select method.)<br>4. Close the browser<br>
 
 #### The Output is:
@@ -14,7 +14,7 @@
 
 
 # Third
-### 💫 In the "Third" file, I have include check-box and radio-button:
+### 💫 In the "Third" file, I have include:
 #### 1. Launch a new browser<br>2. Open URL https://itera-qa.azurewebsites.net/home/automation<br>3. Select the Gender(Use ID locator)<br>4. Check the Check Box "Tuesday" and "Friday" for the category ‘Which days of the week are best to start something new?'(Use ID locator)<br>5. Close the browser<br>
 
 #### The Output is:
